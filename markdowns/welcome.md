@@ -1,1 +1,3 @@
-`TECHIO> message --channel "out" hello world!`
+``` runnable
+TECHIO> message --channel "out" hello world!`
+```
