@@ -1,1 +1,1 @@
-`TECHIO> message --channel "out" hello world!
+`TECHIO> message --channel "out" hello world!`
